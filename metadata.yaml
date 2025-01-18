@@ -1,0 +1,36 @@
+_repo: La-morale-de-Nietzsche_74945
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lasserre, Pierre
+    birthdate: 1867
+    deathdate: 1930
+    gutenberg_agent_id: '57741'
+    url: http://www.gutenberg.org/2009/agents/57741
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Pierre_Lasserre
+    - https://fr.wikipedia.org/wiki/Pierre_Lasserre
+description: ''
+edition_note: Nouvelle édition, augmentée d'une préface.
+gutenberg_issued: '2024-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74945'
+language: fr
+pgterms:marc904: https://archive.org/details/lamoraledenietzs00lassuoft
+pgterms:marc905: 20241213231436lasserre
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aParis :$bGarnier frères, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics'
+- !lcsh 'Nietzsche, Friedrich Wilhelm, 1844-1900'
+- !lcc 'B'
+- GITenberg
+title: La morale de Nietzsche
+url: http://www.gutenberg.org/ebooks/74945
