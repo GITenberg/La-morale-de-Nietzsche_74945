@@ -1,5 +1,8 @@
 _repo: La-morale-de-Nietzsche_74945
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74945-h/images/cover.jpg
 creator:
   author:
     agent_name: Lasserre, Pierre
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Pierre_Lasserre
     - https://fr.wikipedia.org/wiki/Pierre_Lasserre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74945#La-morale-de-Nietzsche
 edition_note: Nouvelle édition, augmentée d'une préface.
 gutenberg_issued: '2024-12-20'
 gutenberg_type: Text
